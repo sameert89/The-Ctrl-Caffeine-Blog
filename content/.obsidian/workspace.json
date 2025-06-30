@@ -49,8 +49,7 @@
               "title": "_index"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,10 +196,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "954e0311c48d46a3",
+  "active": "9ca4e5656d1bf9f9",
   "lastOpenFiles": [
-    "guide-to-vps/index.md",
     "_index.md",
+    "guide-to-vps/index.md",
     "guide-to-vps/server_rack.jpg",
     "test.md",
     "guide-to-vps",
