@@ -1,4 +1,4 @@
-base_url = "http://localhost:8000"
+base_url = "http://blog.kernelrider.in"
 
 title = "Ctrl + Caffeine"
 description = "I post tech tutorials, game and movie reviewes （ミ￣ー￣ミ）"
