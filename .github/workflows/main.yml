@@ -15,4 +15,4 @@ jobs:
         run: |
           curl -X POST \
             "http://100.126.192.41:8000/api/v1/deploy?uuid=lwok808s0cooc4g4c044cw0k&force=false" \
-            -H "Authorization: Bearer ${COOLIFY_TOKEN}"
+            -H "Authorization: Bearer ${COOLIFY_API_TOKEN}"
